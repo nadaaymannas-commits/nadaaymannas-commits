@@ -1,5 +1,9 @@
 # Hi there, I'm Nada Ayman 👋
 
+## Drive link Assignment 5 My Pitch & Application Readiness:
+[https://drive.google.com/file/d/1126SL21wTMAV_JzFyhJZvQBjDXJm7k-i/view?usp=drivesdk
+
+
 ## 👩‍💻 About Me
 - 🎓 BA in Arts, currently transitioning into tech
 - 🌱 Learning Full Stack Development (MEAN Stack) – in progress
